@@ -2988,7 +2988,7 @@ body {
 
 @media screen and (max-width:500px) {
   .ss-button--account-activated {
-    font-size: 13px
+    font-size: 16px
   }
 }
 
@@ -10020,7 +10020,7 @@ h1.ss-no-border-bottom, header.ss-no-border-bottom {
   .ss-admin--vacancies__button-container .ss-button {
     padding-left: 6px;
     padding-right: 6px;
-    font-size: 13px;
+    font-size: 16px;
     height: 40px;
     padding-top: 13px
   }
