@@ -10,7 +10,7 @@
   animation: none;
   direction: ltr;
   border: 0;
-  font-size: 14px;
+  font-size: 16px;
   line-height: 24px;
   border-radius: 5px;
   position: absolute;
@@ -665,7 +665,7 @@ span.flatpickr-weekday {
   line-height: inherit;
   cursor: pointer;
   color: #393939;
-  font-size: 14px;
+  font-size: 16px;
   position: relative;
   -webkit-box-sizing: border-box;
   box-sizing: border-box
@@ -972,7 +972,7 @@ span.flatpickr-weekday {
   display: block;
   overflow: auto;
   border: none;
-  font-size: 14px;
+  font-size: 16px;
   font-family: Inconsolata, Consolas, Courier, Courier New, sans-serif;
   line-height: 18px
 }
@@ -1142,7 +1142,7 @@ span.flatpickr-weekday {
   border: none;
   cursor: pointer;
   text-align: left;
-  font-size: 15px;
+  font-size: 16px;
   -webkit-transition: all .15s;
   transition: all .15s
 }
@@ -1181,7 +1181,7 @@ span.flatpickr-weekday {
   z-index: 1;
   background-color: #fff;
   text-align: center;
-  font-size: 14px;
+  font-size: 16px;
   -webkit-box-shadow: rgba(0, 0, 0, .2) 0 2px 3px;
   box-shadow: 0 2px 3px rgba(0, 0, 0, .2)
 }
@@ -1259,7 +1259,7 @@ span.flatpickr-weekday {
   line-height: 27px;
   border: 1px solid #dedede;
   background: #fff;
-  font-size: 14px;
+  font-size: 16px;
   max-width: 330px;
   width: 70%;
   padding: 0 7px;
@@ -1389,7 +1389,7 @@ body.trumbowyg-body-fullscreen {
 .trumbowyg-editor.trumbowyg-reset-css {
   background: #fefefe!important;
   font-family: Trebuchet MS, Helvetica, Verdana, sans-serif!important;
-  font-size: 14px!important;
+  font-size: 16px!important;
   line-height: 1.45em!important;
   color: #333
 }
@@ -1407,7 +1407,7 @@ body.trumbowyg-body-fullscreen {
   margin-bottom: 15px!important;
   line-height: 1.4em!important;
   font-family: Trebuchet MS, Helvetica, Verdana, sans-serif!important;
-  font-size: 14px!important;
+  font-size: 16px!important;
   border: none
 }
 
@@ -2196,7 +2196,7 @@ h3 {
   font-family: Roboto-Condensed, sans-serif;
   font-weight: 700;
   font-style: normal;
-  font-size: 12px;
+  font-size: 16px;
   color: #b3b3b3;
   letter-spacing: 1px;
   text-transform: uppercase
@@ -2223,7 +2223,7 @@ p {
   font-family: Roboto, sans-serif;
   font-weight: 400;
   font-style: normal;
-  font-size: 14px;
+  font-size: 16px;
   color: #4d4d4d;
   letter-spacing: 0;
   line-height: 20px
@@ -2303,7 +2303,7 @@ p a {
   height: 200px;
   width: 300px;
   text-align: center;
-  font-size: 15px;
+  font-size: 16px;
   color: #fff
 }
 
@@ -2635,7 +2635,7 @@ body {
 .ss-arrowlink {
   font-family: Roboto-Condensed, sans-serif;
   color: #2b9cec;
-  font-size: 12px
+  font-size: 16px
 }
 
 .ss-arrowlink--register {
@@ -2651,7 +2651,7 @@ body {
   padding-right: 12px;
   font-family: Roboto-Condensed, sans-serif;
   font-weight: 700;
-  font-size: 12px;
+  font-size: 16px;
   color: #2b9cec;
   letter-spacing: 1px;
   text-transform: uppercase
@@ -2890,7 +2890,7 @@ body {
   padding: 0;
   padding-left: 36px;
   padding-right: 13px;
-  font-size: 14px;
+  font-size: 16px;
   border-width: 1px;
   color: #4d4d4d
 }
@@ -2934,7 +2934,7 @@ body {
 .ss-button--add {
   height: 38px;
   padding: 9px 12px 10px 33px;
-  font-size: 14px;
+  font-size: 16px;
   border-width: 1px;
   color: #4d4d4d
 }
@@ -2957,7 +2957,7 @@ body {
 .ss-button--smaller {
   height: 38px;
   padding: 12px;
-  font-size: 14px
+  font-size: 16px
 }
 
 .ss-button--smaller--favorite {
@@ -2988,7 +2988,7 @@ body {
 
 @media screen and (max-width:500px) {
   .ss-button--account-activated {
-    font-size: 13px
+    font-size: 16px
   }
 }
 
@@ -3736,7 +3736,7 @@ body {
   padding-top: 14px;
   padding-bottom: 13px;
   padding-left: 13px;
-  font-size: 14px;
+  font-size: 16px;
   font-weight: 500;
   color: #4d4d4d
 }
@@ -4018,7 +4018,7 @@ body {
 }
 
 .ss-strip--event-details__image-container .ss-date .ss-month {
-  font-size: 12px;
+  font-size: 16px;
   font-weight: 700;
   font-stretch: condensed;
   letter-spacing: 1px;
@@ -4137,7 +4137,7 @@ body {
   position: relative;
   padding-top: 22px;
   padding-left: 24px;
-  font-size: 12px;
+  font-size: 16px;
   font-weight: 700;
   text-transform: uppercase
 }
@@ -4154,7 +4154,7 @@ body {
 .ss-strip--events .ss-event-images-container .ss-event-image .ss-single-event__time {
   padding-top: 22px;
   padding-left: 24px;
-  font-size: 12px;
+  font-size: 16px;
   font-weight: 700;
   text-transform: uppercase
 }
@@ -4479,7 +4479,7 @@ body {
   text-align: center;
   display: block;
   margin: 0 auto;
-  font-size: 12px;
+  font-size: 16px;
   font-weight: 700;
   margin-bottom: 12px
 }
@@ -4495,7 +4495,7 @@ body {
 
 .ss-strip--quote__slide .description {
   text-align: center;
-  font-size: 14px;
+  font-size: 16px;
   color: #999;
   white-space: normal
 }
@@ -5776,7 +5776,7 @@ body {
   padding-left: 34px;
   margin-bottom: 10px;
   cursor: pointer;
-  font-size: 14px;
+  font-size: 16px;
   color: #999;
   letter-spacing: 0;
   line-height: 20px
@@ -5956,7 +5956,7 @@ body {
 
 .ss-result--empty a {
   padding-top: 3px;
-  font-size: 14px;
+  font-size: 16px;
   color: #2b9cec
 }
 
@@ -5968,7 +5968,7 @@ body {
   font-family: Roboto-Condensed, sans-serif;
   font-weight: 700;
   background: #ef47a1;
-  font-size: 12px;
+  font-size: 16px;
   color: #fff;
   letter-spacing: 1px;
   text-transform: uppercase;
@@ -6001,7 +6001,7 @@ body {
 
 .ss-result__subtitle {
   font-family: Roboto-Medium, sans-serif;
-  font-size: 14px;
+  font-size: 16px;
   font-weight: 500;
   line-height: 1.43;
   margin-right: 10px;
@@ -6185,7 +6185,7 @@ body:after {
 
 .ss-terms {
   font-family: Roboto, sans-serif;
-  font-size: 14px;
+  font-size: 16px;
   color: #3d3d3d;
   margin-top: 45px;
   line-height: 18px
@@ -6215,7 +6215,7 @@ body:after {
   position: absolute;
   top: 0;
   font-family: Roboto-Condensed, sans-serif;
-  font-size: 12px;
+  font-size: 16px;
   font-weight: 700;
   color: #8d8d8d;
   letter-spacing: 1px;
@@ -6278,7 +6278,7 @@ body:after {
 
 .ss-pagenumber {
   font-family: Roboto-Condensed, sans-serif;
-  font-size: 12px;
+  font-size: 16px;
   font-weight: 700;
   color: #3ddbb1;
   letter-spacing: 1px;
@@ -6391,7 +6391,7 @@ body:after {
 }
 
 .ss-legalcontent h3 {
-  font-size: 14px;
+  font-size: 16px;
   margin-bottom: 5px
 }
 
@@ -6408,7 +6408,7 @@ body:after {
 .ss-legalcontent__subnav a {
   font-family: Roboto, sans-serif;
   display: inline-block;
-  font-size: 14px;
+  font-size: 16px;
   color: #2b9cec;
   cursor: pointer
 }
@@ -6428,7 +6428,7 @@ body:after {
 .ss-legalcontent__wrapper .ss-list {
   font-weight: 400;
   font-style: normal;
-  font-size: 14px;
+  font-size: 16px;
   color: #4d4d4d;
   letter-spacing: 0;
   line-height: 20px
@@ -6743,7 +6743,7 @@ body:after {
 }
 
 .ss-vacancycontent--clean em, .ss-vacancycontent--clean li, .ss-vacancycontent--clean p, .ss-vacancycontent--clean strong, .ss-vacancycontent--clean u, .ss-vacancycontent--clean ul {
-  font-size: 14px;
+  font-size: 16px;
   color: #4d4d4d;
   line-height: 1.5em
 }
@@ -6790,7 +6790,7 @@ body:after {
 
 .ss-vacancycontent__data {
   display: inline-block;
-  font-size: 14px;
+  font-size: 16px;
   color: #2b9cec;
   margin-bottom: 8px;
   position: relative;
@@ -6828,7 +6828,7 @@ body:after {
   display: block;
   float: right;
   color: #2b9cec;
-  font-size: 12px;
+  font-size: 16px;
   font-weight: 700;
   position: relative;
   top: 7px
@@ -6880,7 +6880,7 @@ body:after {
   font-family: Roboto-Condensed, sans-serif;
   letter-spacing: 1px;
   text-transform: uppercase;
-  font-size: 12px
+  font-size: 16px
 }
 
 .ss-vacancycontent__data__label--expired {
@@ -7142,7 +7142,7 @@ body:after {
   color: #2b9cec;
   font-family: Roboto-Condensed, sans-serif;
   font-weight: 700;
-  font-size: 12px;
+  font-size: 16px;
   letter-spacing: 1px;
   display: table-cell;
   vertical-align: middle;
@@ -7305,7 +7305,7 @@ body:after {
 }
 
 .ss-quote__content footer p {
-  font-size: 14px;
+  font-size: 16px;
   color: #2b9cec
 }
 
@@ -7357,7 +7357,7 @@ body:after {
 .ss-breadcrumbs {
   margin-bottom: 20px;
   color: #999;
-  font-size: 14px;
+  font-size: 16px;
   font-weight: 700
 }
 
@@ -7623,7 +7623,7 @@ body:after {
 }
 
 .ss-input--alternative {
-  font-size: 14px;
+  font-size: 16px;
   color: #999
 }
 
@@ -7700,7 +7700,7 @@ body:after {
   text-align: right;
   margin-top: 6px;
   font-weight: 400;
-  font-size: 12px;
+  font-size: 16px;
   display: block
 }
 
@@ -7752,7 +7752,7 @@ body:after {
   border-radius: 2px;
   padding: 24px;
   padding-right: 15px;
-  font-size: 14px;
+  font-size: 16px;
   color: #4d4d4d;
   line-height: 20px;
   top: -50px;
@@ -7886,7 +7886,7 @@ body:after {
 
 .ss-companycontact .ss-list li a {
   display: inline-block;
-  font-size: 14px;
+  font-size: 16px;
   color: #2b9cec;
   text-decoration: underline;
   margin-top: 10px
@@ -7959,7 +7959,7 @@ body:after {
 
 .ss-footer ul li a {
   font-family: Roboto, sans-serif;
-  font-size: 14px;
+  font-size: 16px;
   color: #999
 }
 
@@ -8145,7 +8145,7 @@ body:after {
 .ss-logincontent__footer a {
   display: block;
   padding: 15px 0 0;
-  font-size: 14px;
+  font-size: 16px;
   color: #2b9cec
 }
 
@@ -8271,7 +8271,7 @@ body:after {
 }
 
 .ss-loginsidebar ul {
-  font-size: 14px;
+  font-size: 16px;
   color: #4d4d4d
 }
 
@@ -8353,7 +8353,7 @@ body:after {
 .ss-claimcontent__footer a {
   display: block;
   padding: 15px 0 0;
-  font-size: 14px;
+  font-size: 16px;
   color: #2b9cec
 }
 
@@ -8448,7 +8448,7 @@ body:after {
   font-family: Roboto, sans-serif;
   display: inline-block;
   margin-top: 12px;
-  font-size: 14px;
+  font-size: 16px;
   color: #2b9cec;
   cursor: pointer
 }
@@ -8525,7 +8525,7 @@ body:after {
   width: 100%;
   text-align: center;
   margin-top: 5px;
-  font-size: 12px;
+  font-size: 16px;
   color: #b3b3b3;
   text-overflow: ellipsis;
   overflow: hidden;
@@ -8599,7 +8599,7 @@ body:after {
   margin-top: 10px;
   font-family: Roboto-Medium, sans-serif;
   color: #ee6059!important;
-  font-size: 14px
+  font-size: 16px
 }
 
 .ss-genericform__date {
@@ -8608,7 +8608,7 @@ body:after {
 
 .ss-genericform__date legend {
   font-family: Roboto-Medium, sans-serif;
-  font-size: 14px;
+  font-size: 16px;
   color: #4d4d4d;
   padding-top: 2px
 }
@@ -8719,7 +8719,7 @@ body:after {
   margin-left: 72px;
   text-transform: uppercase;
   color: #b3b3b3;
-  font-size: 12px;
+  font-size: 16px;
   font-style: normal;
   font-weight: 700;
   font-family: Roboto-Condensed, sans-serif;
@@ -8936,7 +8936,7 @@ h1.ss-no-border-bottom, header.ss-no-border-bottom {
   background: #fff;
   color: #4d4d4d;
   font-family: Roboto, sans-serif;
-  font-size: 14px;
+  font-size: 16px;
   line-height: 20px;
   -webkit-transition: border;
   transition: border;
@@ -8945,7 +8945,7 @@ h1.ss-no-border-bottom, header.ss-no-border-bottom {
 }
 
 .ss-textarea--alternative {
-  font-size: 14px;
+  font-size: 16px;
   color: #999
 }
 
@@ -8955,7 +8955,7 @@ h1.ss-no-border-bottom, header.ss-no-border-bottom {
 
 .trumbowyg-editor, .trumbowyg-editor em, .trumbowyg-editor li, .trumbowyg-editor p, .trumbowyg-editor span, .trumbowyg-editor strong, .trumbowyg-editor u, .trumbowyg-editor ul {
   color: #4d4d4d!important;
-  font-size: 14px!important
+  font-size: 16px!important
 }
 
 .trumbowyg-editor em {
@@ -8977,7 +8977,7 @@ h1.ss-no-border-bottom, header.ss-no-border-bottom {
 
 .ss-label {
   font-family: Roboto-Medium, sans-serif;
-  font-size: 14px;
+  font-size: 16px;
   color: #4d4d4d
 }
 
@@ -9151,7 +9151,7 @@ h1.ss-no-border-bottom, header.ss-no-border-bottom {
   font-family: Roboto-Condensed, sans-serif;
   text-transform: uppercase;
   font-weight: 700;
-  font-size: 12px;
+  font-size: 16px;
   letter-spacing: 1px
 }
 
@@ -9456,7 +9456,7 @@ h1.ss-no-border-bottom, header.ss-no-border-bottom {
 .ss-adminmenu__name {
   color: #c49aeb;
   display: block;
-  font-size: 14px;
+  font-size: 16px;
   font-family: Roboto-Medium, sans-serif;
   position: absolute;
   right: 48px;
@@ -9609,7 +9609,7 @@ h1.ss-no-border-bottom, header.ss-no-border-bottom {
 .ss-admin__menu h1 {
   margin-bottom: 0;
   cursor: pointer;
-  font-size: 14px;
+  font-size: 16px;
   font-family: Roboto, sans-serif;
   text-decoration: none;
   color: currentcolor
@@ -9667,7 +9667,7 @@ h1.ss-no-border-bottom, header.ss-no-border-bottom {
 
 .ss-admin--account .ss-genericform h5 {
   font-family: Roboto-Medium, sans-serif;
-  font-size: 14px;
+  font-size: 16px;
   color: #4d4d4d;
   margin-bottom: 30px
 }
@@ -9736,7 +9736,7 @@ h1.ss-no-border-bottom, header.ss-no-border-bottom {
   font-family: Roboto-Condensed, sans-serif;
   text-transform: uppercase;
   font-weight: 700;
-  font-size: 12px;
+  font-size: 16px;
   letter-spacing: 1px
 }
 
@@ -9801,7 +9801,7 @@ h1.ss-no-border-bottom, header.ss-no-border-bottom {
 }
 
 .ss-admin--companyaccount__tips {
-  font-size: 14px;
+  font-size: 16px;
   line-height: 18px;
   color: #999;
   margin-bottom: 10px
@@ -9817,7 +9817,7 @@ h1.ss-no-border-bottom, header.ss-no-border-bottom {
 }
 
 .ss-admin--companyaccount .ss-button--subtle {
-  font-size: 14px;
+  font-size: 16px;
   border-width: 1px;
   color: #4d4d4d
 }
@@ -9856,7 +9856,7 @@ h1.ss-no-border-bottom, header.ss-no-border-bottom {
 
 .ss-admin--companyaccount__companypage .ss-socials--header {
   font-family: Roboto-Medium, sans-serif;
-  font-size: 14px;
+  font-size: 16px;
   color: #4d4d4d;
   margin-top: 22px
 }
@@ -10009,7 +10009,7 @@ h1.ss-no-border-bottom, header.ss-no-border-bottom {
   .ss-admin--vacancies__button-container .ss-button {
     padding-left: 13px;
     padding-right: 13px;
-    font-size: 14px
+    font-size: 16px
   }
 }
 
@@ -10020,7 +10020,7 @@ h1.ss-no-border-bottom, header.ss-no-border-bottom {
   .ss-admin--vacancies__button-container .ss-button {
     padding-left: 6px;
     padding-right: 6px;
-    font-size: 13px;
+    font-size: 16px;
     height: 40px;
     padding-top: 13px
   }
@@ -10098,7 +10098,7 @@ h1.ss-no-border-bottom, header.ss-no-border-bottom {
 
 .ss-admin--newvacancy .ss-genericform legend, .ss-admin--stats .ss-genericform legend {
   font-family: Roboto-Medium, sans-serif;
-  font-size: 14px;
+  font-size: 16px;
   color: #4d4d4d
 }
 
@@ -10142,7 +10142,7 @@ h1.ss-no-border-bottom, header.ss-no-border-bottom {
 
 .ss-admin--newvacancy__weekoverview, .ss-admin--stats__weekoverview {
   font-family: Roboto-Medium, sans-serif;
-  font-size: 14px;
+  font-size: 16px;
   color: #4d4d4d;
   margin-bottom: 24px
 }
@@ -10283,7 +10283,7 @@ h1.ss-no-border-bottom, header.ss-no-border-bottom {
   }
   .ss-admin__menu h1 {
     margin-bottom: 0;
-    font-size: 14px
+    font-size: 16px
   }
   .ss-admin__mobilemenu {
     display: none
@@ -10300,7 +10300,7 @@ h1.ss-no-border-bottom, header.ss-no-border-bottom {
   .ss-admin--report .ss-table .ss-button {
     font-family: Roboto, sans-serif;
     font-weight: 400;
-    font-size: 14px;
+    font-size: 16px;
     padding: 10px 12px;
     height: 35px;
     display: block;
@@ -10394,7 +10394,7 @@ h1.ss-no-border-bottom, header.ss-no-border-bottom {
 
 @media screen and (min-width:1440px) {
   .ss-admin__menu a h1 {
-    font-size: 14px
+    font-size: 16px
   }
   .ss-admin__menu a:last-of-type h1 {
     margin-right: 0
@@ -10441,7 +10441,7 @@ h1.ss-no-border-bottom, header.ss-no-border-bottom {
 
 .ss-table__body__row__empty {
   font-family: Roboto-Condensed, sans-serif;
-  font-size: 12px;
+  font-size: 16px;
   color: #b3b3b3
 }
 
@@ -10514,7 +10514,7 @@ h1.ss-no-border-bottom, header.ss-no-border-bottom {
 .ss-table th {
   font-family: Roboto-Condensed, sans-serif;
   font-weight: 700;
-  font-size: 12px;
+  font-size: 16px;
   color: #b3b3b3;
   letter-spacing: 1px;
   text-transform: uppercase;
@@ -10522,7 +10522,7 @@ h1.ss-no-border-bottom, header.ss-no-border-bottom {
 }
 
 .ss-table td {
-  font-size: 14px;
+  font-size: 16px;
   padding: 15px;
   padding-bottom: 17px;
   background-image: none;
@@ -10545,7 +10545,7 @@ h1.ss-no-border-bottom, header.ss-no-border-bottom {
 .ss-table .ss-button {
   font-family: Roboto, sans-serif;
   font-weight: 400;
-  font-size: 14px;
+  font-size: 16px;
   padding: 10px 12px;
   height: 35px;
   display: block;
@@ -10628,7 +10628,7 @@ h1.ss-no-border-bottom, header.ss-no-border-bottom {
 .ss-profileimage .ss-button {
   opacity: 0;
   pointer-events: none;
-  font-size: 14px;
+  font-size: 16px;
   padding: 10px 12px;
   height: 35px;
   position: absolute;
@@ -10823,7 +10823,7 @@ h1.ss-no-border-bottom, header.ss-no-border-bottom {
 
 .ss-reportpreview--alternative__content .ss-companyprofile__status, .ss-reportpreview--alternative__content h4, .ss-reportpreview--standard__content .ss-companyprofile__status, .ss-reportpreview--standard__content h4, .ss-reportpreview--striking__content .ss-companyprofile__status, .ss-reportpreview--striking__content h4 {
   font-family: Roboto, sans-serif;
-  font-size: 14px;
+  font-size: 16px;
   color: #999;
   margin-bottom: 12px;
   font-weight: 400;
@@ -11190,7 +11190,7 @@ h1.ss-no-border-bottom, header.ss-no-border-bottom {
 }
 
 .ss-reportcontent__footer {
-  font-size: 14px;
+  font-size: 16px;
   color: #999
 }
 
@@ -11407,7 +11407,7 @@ h1.ss-no-border-bottom, header.ss-no-border-bottom {
 }
 
 .ss-markdown h3 {
-  font-size: 14px
+  font-size: 16px
 }
 
 .ss-markdown li {
@@ -11415,7 +11415,7 @@ h1.ss-no-border-bottom, header.ss-no-border-bottom {
   font-family: Roboto, sans-serif;
   font-weight: 400;
   font-style: normal;
-  font-size: 14px;
+  font-size: 16px;
   color: #4d4d4d;
   letter-spacing: 0;
   line-height: 20px
@@ -11521,14 +11521,14 @@ h1.ss-no-border-bottom, header.ss-no-border-bottom {
 
 .ss-info .ss-list {
   color: #999;
-  font-size: 14px;
+  font-size: 16px;
   margin: 12px 0 18px
 }
 
 .ss-info .ss-button {
   font-family: Roboto, sans-serif;
   font-weight: 400;
-  font-size: 14px;
+  font-size: 16px;
   padding: 10px 12px;
   height: 35px;
   display: inline-block;
@@ -11562,7 +11562,7 @@ h1.ss-no-border-bottom, header.ss-no-border-bottom {
 
 .ss-imageupload span {
   display: block;
-  font-size: 14px;
+  font-size: 16px;
   color: #999
 }
 
@@ -11573,7 +11573,7 @@ h1.ss-no-border-bottom, header.ss-no-border-bottom {
 .ss-imageupload .ss-button--subtle {
   margin-top: 22px;
   border-width: 1px;
-  font-size: 14px;
+  font-size: 16px;
   height: 38px;
   padding: 10px 13px 0 43px;
   color: #4d4d4d;
@@ -11992,7 +11992,7 @@ h1.ss-no-border-bottom, header.ss-no-border-bottom {
 }
 
 .ss-stats-server p span {
-  font-size: 10px
+  font-size: 16px
 }
 
 .ss-admin--stats h2 {
@@ -12068,7 +12068,7 @@ h1.ss-no-border-bottom, header.ss-no-border-bottom {
 }
 
 .ss-status__content {
-  font-size: 14px;
+  font-size: 16px;
   width: 100%;
   text-align: center
 }
@@ -12105,7 +12105,7 @@ h1.ss-no-border-bottom, header.ss-no-border-bottom {
   border: 1px solid #e0e0e0;
   cursor: pointer;
   font-weight: 400;
-  font-size: 14px;
+  font-size: 16px;
   color: #4d4d4d
 }
 
@@ -12333,7 +12333,7 @@ input[type=checkbox]:checked+.ss-checkbox:after {
 
 .ss-accordion__section__toggle {
   display: block;
-  font-size: 14px;
+  font-size: 16px;
   color: #2b9cec
 }
 
@@ -12371,7 +12371,7 @@ input[type=checkbox]:checked+.ss-checkbox:after {
 .ss-accordion__section__content h3 {
   margin-top: 24px;
   margin-bottom: 18px;
-  font-size: 14px;
+  font-size: 16px;
   line-height: normal
 }
 
@@ -12449,7 +12449,7 @@ input[type=checkbox]:checked+.ss-checkbox:after {
 }
 
 .ss-accordion__section__footer__capacity {
-  font-size: 14px;
+  font-size: 16px;
   color: #999;
   display: block;
   padding-top: 18px
@@ -12521,7 +12521,7 @@ input[type=checkbox]:checked+.ss-checkbox:after {
   background-color: #f6f6f6;
   max-width: 600px;
   width: 100%;
-  font-size: 14px
+  font-size: 16px
 }
 
 .ss-info-card .ss-info-card__table {
@@ -12552,7 +12552,7 @@ input[type=checkbox]:checked+.ss-checkbox:after {
 }
 
 .ss-info-card .ss-companyprofile__status, .ss-info-card h4 {
-  font-size: 14px;
+  font-size: 16px;
   color: #000;
   text-transform: none
 }
@@ -12640,7 +12640,7 @@ input[type=checkbox]:checked+.ss-checkbox:after {
 .ss-button-group>.ss-button {
   border-radius: 0;
   margin: 0;
-  font-size: 14px;
+  font-size: 16px;
   float: left;
   height: auto;
   padding: .875em 1em;
@@ -12742,7 +12742,7 @@ input[type=checkbox]:checked+.ss-checkbox:after {
 }
 
 .navigation-bar-link__label__title {
-  font-size: 14px
+  font-size: 16px
 }
 
 .navigation-bar-link__label__subtitle, .navigation-bar-link__label__title {
@@ -12754,7 +12754,7 @@ input[type=checkbox]:checked+.ss-checkbox:after {
 }
 
 .navigation-bar-link__label__subtitle {
-  font-size: 12px;
+  font-size: 16px;
   color: #b3b3b3
 }
 
@@ -12847,15 +12847,15 @@ input[type=checkbox]:checked+.ss-checkbox:after {
 
 .ss-graph__axis {
   font-family: Roboto, sans-serif;
-  font-size: 14px
+  font-size: 16px
 }
 
 .ss-graph__axis--x {
-  font-size: 12px
+  font-size: 16px
 }
 
 .ss-graph__label {
-  font-size: 14px
+  font-size: 16px
 }
 
 .ss-graph__table td:first-of-type {
@@ -12876,7 +12876,7 @@ input[type=checkbox]:checked+.ss-checkbox:after {
   color: #4d4d4d;
   text-transform: none;
   letter-spacing: normal;
-  font-size: 14px
+  font-size: 16px
 }
 
 .ss-graph--info .ss-graph__table tr:nth-child(2n) td {
@@ -13025,7 +13025,7 @@ input[type=checkbox]:checked+.ss-checkbox:after {
   border: none!important;
   color: #fff;
   background-color: #333!important;
-  font-size: 14px;
+  font-size: 16px;
   font-family: Roboto, sans-serif;
   line-height: 1.43;
   padding: 4px 10px!important;
@@ -13188,7 +13188,7 @@ input[type=checkbox]:checked+.ss-checkbox:after {
 
 .ss-graph-tooltip {
   position: absolute;
-  font-size: 14px;
+  font-size: 16px;
   background: #fff;
   -webkit-box-shadow: 0 0 18px 0 rgba(0, 0, 0, .06);
   box-shadow: 0 0 18px 0 rgba(0, 0, 0, .06);
@@ -13230,7 +13230,7 @@ input[type=checkbox]:checked+.ss-checkbox:after {
   padding-left: 18px;
   padding-right: 18px;
   padding-top: 18px;
-  font-size: 14px;
+  font-size: 16px;
   font-family: Roboto, sans-serif
 }
 
