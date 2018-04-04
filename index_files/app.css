@@ -3012,6 +3012,9 @@ body {
   .ss-button--student-jungle:first-of-type {
     margin-top: 4px
   }
+  #klotestreepie{
+    display: block;
+  }
 }
 
 .ss-list {
@@ -5912,6 +5915,9 @@ body {
     float: none;
     display: block;
     margin-bottom: 0
+  }
+  #klotestreepie{
+    display: none;
   }
 }
 
@@ -13277,5 +13283,6 @@ a.disabled {
   cursor: no-drop;
   background-color: #999
 }
+
 
 /*# sourceMappingURL=app.css.map*/
